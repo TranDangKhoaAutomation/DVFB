@@ -43,7 +43,7 @@ DVFB (short for "Dịch Vụ Facebook") aims to provide a unified platform where
 
 ## Author
 
-Created by **Tran Dang Khoa**. © 2025 Tran Dang Khoa.
+Created by **Tran Dang Khoa**. © 2025 Trần Đăng Khoa / TranDangKhoaAutomation.
 
 ## License
 
